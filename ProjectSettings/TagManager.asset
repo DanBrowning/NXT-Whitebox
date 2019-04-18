@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - RightDoor
+  - LeftDoor
+  - Enemy
+  - Projectile
+  - Ladder
+  - LadderTop
+  - B1
+  - 1F
+  - 2F
+  - 3F
   layers:
   - Default
   - TransparentFX
@@ -14,9 +24,9 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
+  - ElevatorR
+  - ElevatorL
+  - Player
   - 
   - 
   - 
